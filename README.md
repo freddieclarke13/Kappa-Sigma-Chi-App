@@ -16,6 +16,7 @@ Developed by Freddie Clarke, Purdue University Class of 2024
 
 ### Reminders
 - Reminders for late fees
+- RM responsibilities
 
 ### Message Boards
 - Each committee can have a message board for communicating
